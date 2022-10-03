@@ -1,0 +1,46 @@
+.jumbotron{
+    color: wheat;
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/南山公墓與竹溪.jpg/1024px-南山公墓與竹溪.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 50vh;
+
+}
+
+#nav {
+    color: pink;
+    width: 500px;
+    position: center;
+}
+
+#nav li{
+    display:block;
+    padding: 2px;
+    margin: 5px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+#nav li a:hover{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+#nav li:hover{
+    background-color: olivedrab;
+}
+
+li {
+    display: inline;
+  }
+
+.container{
+    padding: 15px;
+}
+
+#contents, #footer {
+    background-color: olive;
+    padding: 20px;
+
+}
